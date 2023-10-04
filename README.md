@@ -51,6 +51,16 @@ pip install pandas numpy matplotlib seaborn nltk wordcloud regex scikit-learn im
 
 Note: Make sure you have Python 3.x installed on your system.
 
+# Tools Used
+- Python
+       - Streamlit
+        -scikit-learn
+        -nltk
+- Comet
+- GitHub
+- AWS EC2
+
+
 # Usage
 
 1. Clone the repository or download the notebook and dataset files to your local machine.
