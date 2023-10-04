@@ -31,3 +31,32 @@ Class Description :
 
 • Prediction and Deployment: The trained model can be used to predict the sentiment of new, unseen data. Once satisfied with the model performance, it can be deployed in a production environment for real-time sentiment analysis.
 
+# Dependencies
+
+The following libraries are required to run the notebook successfully:
+
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- nltk
+- wordcloud
+- regex
+- scikit-learn
+- imbalanced-learn
+
+You can install the required libraries using the following command:
+pip install pandas numpy matplotlib seaborn nltk wordcloud regex scikit-learn imbalanced-learn
+
+
+Note: Make sure you have Python 3.x installed on your system.
+
+# Usage
+
+1. Clone the repository or download the notebook and dataset files to your local machine.
+
+2. Install the required dependencies mentioned above.
+
+3. Open the notebook in Jupyter Notebook, JupyterLab, or any other compatible environment.
+
+4. Run the notebook cells sequentially to execute the code and generate the results.
