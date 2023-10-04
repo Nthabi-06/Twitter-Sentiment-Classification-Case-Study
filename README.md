@@ -83,3 +83,5 @@ Note: Make sure you have Python 3.x installed on your system.
 ![Screenshot (332)](https://github.com/Nthabi-06/Twitter-Sentiment-Classification-Case-Study/assets/128138564/17ad4e1f-002b-455c-a15d-b6ece52f3546)
 
 ![Screenshot (205)](https://github.com/Nthabi-06/Twitter-Sentiment-Classification-Case-Study/assets/128138564/eb60a5ff-4c6c-422e-a1b2-f46db02dd7af)
+
+![myth](https://github.com/Nthabi-06/Twitter-Sentiment-Classification-Case-Study/assets/128138564/f0d95f0b-ae30-4b4b-a629-e34bedb54a2e)
