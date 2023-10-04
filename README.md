@@ -75,3 +75,5 @@ Note: Make sure you have Python 3.x installed on your system.
 - Run the notebook cells sequentially to execute the code and generate the results.
 
 # Output
+
+![Screenshot (205)](https://github.com/Nthabi-06/Twitter-Sentiment-Classification-Case-Study/assets/128138564/eb60a5ff-4c6c-422e-a1b2-f46db02dd7af)
