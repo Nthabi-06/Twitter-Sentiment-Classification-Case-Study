@@ -66,10 +66,12 @@ Note: Make sure you have Python 3.x installed on your system.
 
 # Usage
 
-1. Clone the repository or download the notebook and dataset files to your local machine.
+- Clone the repository or download the notebook and dataset files to your local machine.
 
-2. Install the required dependencies mentioned above.
+- Install the required dependencies mentioned above.
 
-3. Open the notebook in Jupyter Notebook, JupyterLab, or any other compatible environment.
+- Open the notebook in Jupyter Notebook, JupyterLab, or any other compatible environment.
 
-4. Run the notebook cells sequentially to execute the code and generate the results.
+- Run the notebook cells sequentially to execute the code and generate the results.
+
+# Output
