@@ -16,3 +16,6 @@ Class Description :
 - 0 Neutral: the tweet neither supports nor refutes the belief of man-made climate change
 
 - -1 Anti: the tweet does not believe in man-made climate change Variable definitions
+
+
+
