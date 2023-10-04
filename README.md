@@ -53,9 +53,9 @@ Note: Make sure you have Python 3.x installed on your system.
 
 # Tools Used
 - Python
-       - Streamlit
-        -scikit-learn
-        -nltk
+   - Streamlit
+   - scikit-learn
+   - nltk
 - Comet
 - GitHub
 - AWS EC2
