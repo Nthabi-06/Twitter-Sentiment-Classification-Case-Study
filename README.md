@@ -75,11 +75,13 @@ Note: Make sure you have Python 3.x installed on your system.
 - Run the notebook cells sequentially to execute the code and generate the results.
 
 # Output
-
+Distribution of tweets according to classes"
 ![tweet_sentiments](https://github.com/Nthabi-06/Twitter-Sentiment-Classification-Case-Study/assets/128138564/9e3d9d98-5efa-465d-bf3a-6334f12316e3)
 
+A wordcloud that is generated from the Tweets of people who believe in climate change.
 ![Screenshot (333)](https://github.com/Nthabi-06/Twitter-Sentiment-Classification-Case-Study/assets/128138564/83803ea5-c682-499d-8404-7b75c6e298e0)
 
+A wordcloud that is generated from the Tweets of people who do not believe in climate change.
 ![Screenshot (332)](https://github.com/Nthabi-06/Twitter-Sentiment-Classification-Case-Study/assets/128138564/17ad4e1f-002b-455c-a15d-b6ece52f3546)
 
 ![Screenshot (205)](https://github.com/Nthabi-06/Twitter-Sentiment-Classification-Case-Study/assets/128138564/eb60a5ff-4c6c-422e-a1b2-f46db02dd7af)
