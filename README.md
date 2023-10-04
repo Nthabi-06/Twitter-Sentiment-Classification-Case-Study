@@ -32,10 +32,10 @@ Class Description :
 - Prediction and Deployment: The trained model can be used to predict the sentiment of new, unseen data. Once satisfied with the model performance, it can be deployed in a production environment for real-time sentiment analysis.
 
 # Expected Outcomes
--Analyze Twitter Trends
--Construct a Sentiment Classification Model for Climate Change
--Engineer a User-Friendly Application for Model Deployment
--Deliver Insights to Key Stakeholders
+- Analyze Twitter Trends
+- Construct a Sentiment Classification Model for Climate Change
+- Engineer a User-Friendly Application for Model Deployment
+- Deliver Insights to Key Stakeholders
 
 # Dependencies
 
