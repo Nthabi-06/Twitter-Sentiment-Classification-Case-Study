@@ -76,4 +76,8 @@ Note: Make sure you have Python 3.x installed on your system.
 
 # Output
 
+![tweet_sentiments](https://github.com/Nthabi-06/Twitter-Sentiment-Classification-Case-Study/assets/128138564/9e3d9d98-5efa-465d-bf3a-6334f12316e3)
+
+
+
 ![Screenshot (205)](https://github.com/Nthabi-06/Twitter-Sentiment-Classification-Case-Study/assets/128138564/eb60a5ff-4c6c-422e-a1b2-f46db02dd7af)
