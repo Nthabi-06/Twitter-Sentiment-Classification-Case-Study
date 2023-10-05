@@ -1,5 +1,5 @@
 # Twitter Case Study: Leveraging Natural Language Processing for Sentiment Analysis on Climate Change-Related Tweets
-Please be advised that, in compliance with project confidentiality requirements, I am unable to disclose the code used in this project publicly. However, I am more than willing to discuss the project's methodology, outcomes, and provide general insights without revealing specific code details
+Please be advised that, in compliance with project confidentiality requirements, I am unable to disclose the code used in this project publicly. However, I am more than willing to discuss the project's methodology, outcomes, and provide general insights without revealing specific code details.
 
 # Context 
 In the face of an apparent rise in skepticism surrounding climate change, companies that promote themselves as environmentally friendly or provide eco-conscious products face a challenging situation if they neglect thorough market research. To enhance ongoing market research endeavors, the development of a Machine Learning model becomes imperative. This model should be capable of discerning whether individuals believe in climate change or not, drawing insights from their unique tweet data.
