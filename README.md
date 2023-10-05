@@ -98,7 +98,7 @@ On the app there is a make prediction option where you can choose any model on t
 
 # Acknowledgements
 I would like to thank my team members for their contributions:
-- Reneilwe Motsamai
+- Reneilwe Motsamai (Team Lead)
 - Mantsho Molepo
 - Nhlanhla Mthembu
 - Esethu Mpetshwa
