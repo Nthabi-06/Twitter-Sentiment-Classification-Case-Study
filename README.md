@@ -95,7 +95,12 @@ On the app there is a make prediction option where you can choose any model on t
 - To maximize support and retweets on Twitter, it's advisable for companies to tailor their marketing efforts toward individuals who endorse the concept of climate change, as they constitute the majority of Twitter users generating content on this topic.
 - Furthermore, the development of a tool capable of automatically distinguishing language patterns between climate change believers and skeptics based on real-time trends seems crucial.
 - This innovation would enable marketers to pinpoint specific terms and phrases that resonate with their target audience, adapting to the ever-changing landscape of online discussions
-
+  
+# My contributions
+- My duties were to update the Trello board.
+- Perform data cleaning on the notebook.
+- Perform model experiments using Comet.
+  
 # Acknowledgements
 I would like to thank my team members for their contributions:
 - Reneilwe Motsamai (Team Lead)
