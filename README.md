@@ -88,3 +88,18 @@ The final output is a user-friendly app
 
 On the app there is a make prediction option where you can choose any model on the drop down , write a tweet then the model will do the predictions for you.
 ![myth](https://github.com/Nthabi-06/Twitter-Sentiment-Classification-Case-Study/assets/128138564/29a75fa6-eecb-432c-9f99-b21625d22d12)
+
+# Conclusions
+- Most tweets express support for addressing climate change, and surprisingly, the language used by both climate change proponents and skeptics shows little divergence. This similarity might arise from the fact that many individuals are inclined to engage with trending topics and hashtags, resulting in common frequently used words across a broad time frame
+# Recommendations
+- To maximize support and retweets on Twitter, it's advisable for companies to tailor their marketing efforts toward individuals who endorse the concept of climate change, as they constitute the majority of Twitter users generating content on this topic.
+- Furthermore, the development of a tool capable of automatically distinguishing language patterns between climate change believers and skeptics based on real-time trends seems crucial.
+- This innovation would enable marketers to pinpoint specific terms and phrases that resonate with their target audience, adapting to the ever-changing landscape of online discussions
+
+# Acknowledgements
+I would like to thank my team members for their contributions:
+- Reneilwe Motsamai
+- Mantsho Molepo
+- Nhlanhla Mthembu
+- Esethu Mpetshwa
+- Phelokazi Wessels
